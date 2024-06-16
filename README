@@ -1,0 +1,55 @@
+# MITRE ATT&CK Threat Bingo
+```
+:::::::-.   .::::. :::::::..    ::   .:  .::::. :::::::.. :: .::::::.
+ ;;,   `';,`;.  ,;';;;;``;;;;  ,;;   ;;,`;.  ,;';;;;``;;;;,';;;`    `
+ `[[     [[  [nn[,  [[[,/[[[' ,[[[,,,[[[  [nn[,  [[[,/[[['  '[==/[[[[,
+  $$,    $$ $"   $c $$$$$$c   "$$$"""$$$ $"   $c $$$$$$c      '''    $
+  888_,o8P' Yb,_,8P 888b "88bo,888   "88oYb,_,8P 888b "88bo, 88b    dP
+  MMMMP"`    "YMP"  MMMM   "W" MMM    YMM "YMP"  MMMM   "W"   "YMmMY"
+:::::::::::: ::   .: :::::::..  .,::::::   :::. ::::::::::::
+;;;;;;;;'''',;;   ;;,;;;;``;;;; ;;;;''''   ;;`;;;;;;;;;;''''
+     [[    ,[[[,,,[[[ [[[,/[[['  [[cccc   ,[[ '[[,   [[
+     $$    "$$$"""$$$ $$$$$$c    $$""""  c$$$cc$$$c  $$
+     88,    888   "88o888b "88bo,888oo,__ 888   888, 88,
+     MMM    MMM    YMMMMMM   "W" """"YUMMMYMM   ""`  MMM
+  .,-:::::/ :::::::..       ...      ...    :::::::::::::.
+,;;-'````'  ;;;;``;;;;   .;;;;;;;.   ;;     ;;; `;;;```.;;;
+[[[   [[[[[[/[[[,/[[['  ,[[     \[[,[['     [[[  `]]nnn]]'
+"$$c.    "$$ $$$$$$c    $$$,     $$$$$      $$$   $$$""
+ `Y8bo,,,o88o888b "88bo,"888,_ _,88P88    .d888   888o
+   `'YMUP"YMMMMMM   "W"   "YMMMMMP"  "YmmMMMM""   YMMMb
+:::::::.  ::::::.    :::.  .,-:::::/      ...
+ ;;;'';;' ;;;`;;;;,  `;;;,;;-'````'    .;;;;;;;.
+ [[[__[[\.[[[  [[[[[. '[[[[[   [[[[[[/,[[     \[[,
+ $$""""Y$$$$$  $$$ "Y$c$$"$$c.    "$$ $$$,     $$$
+_88o,,od8P888  888    Y88 `Y8bo,,,o88o"888,_ _,88P
+""YUMMMP" MMM  MMM     YM   `'YMUP"YMM  "YMMMMMP"
+```
+
+## Preparation:
+1. **Navigate to ATT&CK Navigator**:
+    - Go to [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator) and click the select icon.
+2. **Select a Threat Group**:
+    - In the menu that pops up, select a threat group from the drop-down menu.
+3. **Assign Technique Scores**:
+    - In the technique controls, click the score icon and assign a value of 3 to all techniques.
+4. **Set Color Preset**:
+    - In the layer controls, click on "Color Setup" and assign a preset color scheme.
+5. **Export Heat Map**:
+    - In the layer controls, click "Export" and then the camera icon to create an SVG file of the heat map.
+6. **Print the Heat Map**:
+    - Print out the SVG file. You are now ready to play!
+
+## Rules:
+1. **Choose an APT Group**:
+    - Each player selects an APT (Advanced Persistent Threat) group and prints out their navigator heat map.
+2. **Balancing the Game**:
+    - Some APT groups have more Techniques, Tactics, and Procedures (TTPs) than others. If a player chooses a group with fewer TTPs, they may have an advantage. Choose wisely!
+3. **Host Calls Techniques**:
+    - The host runs the MITRE ATT&CK Threat Bingo program, calling out a technique on each spin.
+4. **Cross Off Techniques**:
+    - Players cross off the techniques on their heat map as they are called out.
+5. **Winning the Game**:
+    - The first player to cross off all techniques on their APT group's heat map is the winner!
+
+Enjoy playing MITRE ATT&CK Threat Bingo and may the best threat group strategist win!
